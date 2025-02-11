@@ -1,1 +1,1 @@
-** __Welcome to Mexico CyberSecurity__ **
+__Welcome to Mexico CyberSecurity__
